@@ -31,10 +31,12 @@ That's how AERO-LITE started—as a question. Not to replace NASA's work, but to
 ## What It Does
 
 AERO-LITE is a four-stage preprocessor that bridges CO₂ capture and CO₂ chemistry:
-Dry the air — silica gel strips moisture so zeolite can do its job
-Trap CO₂ — zeolite 13X bed captures CO₂ at room temperature
-Cook it out — heat to 248°F and pure, concentrated CO₂ desorbs
-Compress and buffer — steady 22 psi feed for the Sabatier reactor
+
+1. **Dry the air** — silica gel strips moisture so zeolite can do its job
+2. **Trap CO₂** — zeolite 13X bed captures CO₂ at room temperature
+3. **Cook it out** — heat to 248°F and pure, concentrated CO₂ desorbs
+4. **Compress and buffer** — steady 22 psi feed for the Sabatier reactor
+
 The key insight: don't just remove CO₂. Turn it into something the next stage can actually use.
 
 ![AERO-LITE System Architecture](media/aero-lite-system-architecture.png)
