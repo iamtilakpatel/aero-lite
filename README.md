@@ -40,7 +40,7 @@ AERO-LITE is a four-stage preprocessor that conditions CO₂ for the Sabatier re
 
 The insight: do not simply remove CO₂. Condition it into feedstock the next stage requires.
 
-![AERO-LITE System Architecture](docs/media/aero-lite-system-architecture.png)
+![AERO-LITE System Architecture](media/aero-lite-system-architecture.png)
 
 _Four stages. One physical zeolite bed. Two operating modes. The ESP32-S3 controller cycles automatically between ADSORB (~80% of cycle, clean air returns to cabin) and REGEN/PURGE (~20% of cycle, concentrated CO₂ flows to the Sabatier)._
 
