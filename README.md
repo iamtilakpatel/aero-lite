@@ -48,7 +48,7 @@ _Four stages. One physical zeolite bed. Two operating modes. The ESP32-S3 contro
 
 ![AERO-LITE Phase 1 Prototype](media/prototype-photos/prototype-phase1.jpg)
 
-## _Three-stage glass jar prototype with live ESP32-S3 dashboard. Stage 1: Silica gel dehumidifier. Stage 2+3: Zeolite 13X capture/regeneration bed. Stage 4: CO₂ buffer tank. The web interface shows real-time CO₂ concentration, humidity, and system state._
+_Three-stage glass jar prototype with live ESP32-S3 dashboard. Stage 1: Silica gel dehumidifier. Stage 2+3: Zeolite 13X capture/regeneration bed. Stage 4: CO₂ buffer tank. The web interface shows real-time CO₂ concentration, humidity, and system state._
 
 ## Technical Depth
 
