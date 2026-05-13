@@ -44,7 +44,11 @@ The insight: do not simply remove CO₂. Condition it into feedstock the next st
 
 _Four stages. One physical zeolite bed. Two operating modes. The ESP32-S3 controller cycles automatically between ADSORB (~80% of cycle, clean air returns to cabin) and REGEN/PURGE (~20% of cycle, concentrated CO₂ flows to the Sabatier)._
 
----
+### Phase 1 Prototype
+
+![AERO-LITE Phase 1 Prototype](media/prototype-photos/prototype-phase1.jpg)
+
+## _Three-stage glass jar prototype with live ESP32-S3 dashboard. Stage 1: Silica gel dehumidifier. Stage 2+3: Zeolite 13X capture/regeneration bed. Stage 4: CO₂ buffer tank. The web interface shows real-time CO₂ concentration, humidity, and system state._
 
 ## Technical Depth
 
@@ -96,7 +100,8 @@ Add 248°F thermal desorption under supervised conditions. Measured actual CO₂
 ## Contact
 
 **Tilak Patel**  
-8th Grade, Thompson Middle School  
+8th Grade, Thompson Middle School
+Incoming Freshman, St. Charles North High School
 [Email](mailto:iamtilakpatel@gmail.com)
 
 ---
