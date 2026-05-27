@@ -1,8 +1,9 @@
-# AERO-LITE
+# 🚀 AERO-LITE
 
-**A regenerative CO₂ life support preprocessor built by a high school freshman.**
+**Top Individual Award — NASA Space Center Houston Carbon Capture Challenge | Middle School segment | Spring 2026**
 
-Designed for NASA's Carbon Capture Challenge. Engineered for long-duration lunar habitation.
+A regenerative CO₂ life support preprocessor built by a high school freshman.
+📖 [Read the full build log](https://tilakpatel.me/projects.html)
 
 ---
 
@@ -49,6 +50,34 @@ _Four stages. One physical zeolite bed. Two operating modes. The ESP32-S3 contro
 ![AERO-LITE Phase 1 Prototype](media/photos/prototype-phase1.jpg)
 
 _Three-stage glass jar prototype with live ESP32-S3 dashboard. Stage 1: Silica gel dehumidifier. Stage 2+3: Zeolite 13X capture/regeneration bed. Stage 4: CO₂ buffer tank. The web interface shows real-time CO₂ concentration, humidity, and system state._
+
+---
+
+## 🏆 Recognition
+
+| Award                       | Details                                                                                           |
+| --------------------------- | ------------------------------------------------------------------------------------------------- |
+| **Top Individual Award**    | NASA Space Center Houston Carbon Capture Challenge, Spring 2026                                   |
+| **Competition Scope**       | Open to all U.S. middle school students                                                           |
+| **Format**                  | Virtual project presentation + live Q&A with engineering judges                                   |
+| **Key Features Recognized** | Regenerative design, thermal-swing desorption, ESP32-S3 real-time control, 3D-printed integration |
+
+> _"Tilak's project demonstrated an impressive level of technical detail, mission awareness, and systems thinking. AERO-LITE presented a thoughtful concept for supporting carbon dioxide capture and processing for lunar habitat, with attention to mass, power, automation, safety, and future development."_
+>
+> **— Space Center Houston Judges**  
+> _Middle School Top Individual Award, Spring 2026_
+
+---
+
+## 🏆 Award Ceremony
+
+_Virtual ceremony — NASA Space Center Carbon Capture Challenge Spring 2026, Middle School Division winner announcement._
+<video src="https://raw.githubusercontent.com/iamtilakpatel/aero-lite/main/media/videos/NASA_Challenge_Winner_Announcement.mp4" controls width="100%" poster="https://raw.githubusercontent.com/iamtilakpatel/aero-lite/main/media/photos/ceremony-thumbnail.jpg">
+Your browser does not support the video tag.
+<a href="https://raw.githubusercontent.com/iamtilakpatel/aero-lite/main/media/videos/NASA_Challenge_Winner_Announcement.mp4">Download MP4</a>
+</video>
+
+---
 
 ## Technical Depth
 
@@ -102,9 +131,8 @@ Add 248°F thermal desorption under supervised conditions. Measured actual CO₂
 ## Contact
 
 **Tilak Patel**  
-8th Grade, Thompson Middle School
-Incoming Freshman, St. Charles North High School
-[Email](mailto:iamtilakpatel@gmail.com)
+🏆 NASA Carbon Capture Challenge — Middle School Division Winner, Spring 2026  
+[Email](mailto:iamtilakpatel@gmail.com) | [Website](https://tilakpatel.me)
 
 ---
 
