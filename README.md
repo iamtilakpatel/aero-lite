@@ -72,10 +72,8 @@ _Three-stage glass jar prototype with live ESP32-S3 dashboard. Stage 1: Silica g
 ## 🏆 Award Ceremony
 
 _Virtual ceremony — NASA Space Center Carbon Capture Challenge Spring 2026, Middle School Division winner announcement._
-<video src="https://raw.githubusercontent.com/iamtilakpatel/aero-lite/main/media/videos/NASA_Challenge_Winner_Announcement.mp4" controls width="100%" poster="https://raw.githubusercontent.com/iamtilakpatel/aero-lite/main/media/photos/ceremony-thumbnail.jpg">
-Your browser does not support the video tag.
-<a href="https://raw.githubusercontent.com/iamtilakpatel/aero-lite/main/media/videos/NASA_Challenge_Winner_Announcement.mp4">Download MP4</a>
-</video>
+[![Watch the video](https://raw.githubusercontent.com/iamtilakpatel/aero-lite/main/media/photos/ceremony-thumbnail.jpg)]
+(https://raw.githubusercontent.com/iamtilakpatel/aero-lite/main/media/videos/NASA_Challenge_Winner_Announcement.mp4)
 
 ---
 
